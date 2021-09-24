@@ -29,6 +29,6 @@ else:
     floatSqrtDelta = sqrt(intDelta)
 
     floatRaizX1 = ((-intB + floatSqrtDelta) / (2 * intA))
-    floatRaizX2 = ((-intB + floatSqrtDelta) / (2 * intA))
+    floatRaizX2 = ((-intB - floatSqrtDelta) / (2 * intA))
  
     print("As raízes são", floatRaizX1, "e", floatRaizX2)
