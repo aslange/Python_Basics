@@ -1,2 +1,2 @@
 # Python_Basics
- Python's basic sintaxe samples.
+ Python basic syntax samples.
